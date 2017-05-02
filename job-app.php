@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Job Application
  * Plugin URI:        https://github.com/bbathel12/job-apps
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Creates a basic job application, with responses viewable in the admin
  * Version:           1.0.0
  * Author:            Brice
  * Author URI:        https://github.com/bbathel12
